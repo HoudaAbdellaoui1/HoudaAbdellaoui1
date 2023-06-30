@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working as a Software Engineer/ Product Owner at [Petalens](https://github.com/Mouhimedia/petalens-web-frontend)
 
+-  👩🏻‍🎓 Student at ALX Software Engineering Program 2k23
+
 - 🌱 I’m currently learning **GCP, ElasticSearch, Azure Cloud Services, React Native**
 
 - 📫 How to reach me **abdellaouihouda2@gmail.com**
