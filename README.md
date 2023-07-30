@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houdaabdellaoui1" alt="houdaabdellaoui1" /></a> </p>
 
-- 🔭 I’m currently working as a Software Engineer/ Product Owner at [Petalens]([https://github.com/Mouhimedia/petalens-web-frontend](https://www.petalens.com/))
+- 🔭 I’m currently working as a Software Engineer/ Product Owner at [Petalens]([(https://www.petalens.com/)](https://www.petalens.com/))
 
 -  👩🏻‍🎓 Student at ALX Software Engineering Program 2k23
 
