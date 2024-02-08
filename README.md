@@ -7,7 +7,7 @@
 
 -  👩🏻‍🎓 Student at ALX Software Engineering Program 2k23
 
-- 🌱 I’m currently learning **ElasticSearch, Azure Cloud Services, IT Project Management with Agile Scrum**
+- 🌱 I’m currently learning **ReactJS, Product Management using Agile Scrum, Google Data Analytics **
 
 - 📫 How to reach me **abdellaouihouda2@gmail.com**
 
